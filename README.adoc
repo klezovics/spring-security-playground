@@ -1,0 +1,4 @@
+This project implements and provides tests for various Spring security configurations.
+
+As a rule, there is one security configuration per package and unit/integration tests for it
+in the relevant package in the /tests/ folder.
