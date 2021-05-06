@@ -4,6 +4,7 @@ As a rule, there is one security configuration per package and unit/integration 
 in the relevant package in the /tests/ folder.
 
 TO READ:
+0) https://medium.com/@satyakm.dev/understanding-spring-security-internals-with-code-walkthrough-850d5749252c
 1) https://www.marcobehler.com/guides/spring-security
 2) Course https://www.udemy.com/course/spring-security-core-beginner-to-guru/
 3) Authentication with DB: https://www.baeldung.com/spring-security-authentication-with-a-database
